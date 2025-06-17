@@ -33,6 +33,8 @@ Importe o arquivo bd.sql disponível na pasta do projeto para criar as tabelas n
 
 Como utilizar o rastreamento/trackeamento
 
+Você pode usar os códigos abaixo ou usar o gerador na página inicial do projeto.
+
 Crie um modelo html base, insira e substitua dinamicamente os valores dos links conforme o necessário, via ferramenta de email marketing, por exemplo:
 
 Rastreamento de abertura: Imagem píxel invisivel para rastreamento das aberturas, inserir de preferência no final do arquivo antes do </body>.
