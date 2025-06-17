@@ -38,3 +38,16 @@ Defina o url do botão voltar no arquivo gerador.php
 
 ## Como utilizar o rastreamento/trackeamento
 Leia o arquivo instruções.txt na pasta do projeto para instruções de uso.
+
+## Licença de uso
+Este código foi disponibilizado como código aberto para que qualquer pessoa possa utilizar, modificar e distribuir livremente.
+
+**Condições:**
+
+É permitido usar, copiar, modificar e distribuir o código para qualquer fim, pessoal ou comercial, desde que mencionado o criador do código.
+
+- A única condição é que o autor original seja sempre mencionado em qualquer uso, modificação ou distribuição do código.
+
+- Não há garantias quanto a segurança do sistema, o mesmo foi criado para um fim de validação interna, use por sua conta e risco.
+
+Seja livre para explorar, aprender, melhorar essa ferramenta e contribuir com este projeto.
