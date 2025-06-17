@@ -1,4 +1,4 @@
-Mail Tracker - Rastreamento de E-mail Markting Simplificado
+Mail Tracker - Rastreamento de E-mail Marketing Simplificado
 
 Mail Tracker é um sistema simples de rastreamento de e-mails que permite monitorar aberturas, cliques e conversões de campanhas de e-mail marketing por meio de pixels invisíveis e redirecionamentos rastreáveis.
 
