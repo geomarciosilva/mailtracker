@@ -16,7 +16,7 @@ Acesso ao painel via senha definida manualmente.
 
 ## Instalação e Configuração
 
-Siga o passo a passo abaixo para colocar o MailPainel em funcionamento:
+Siga o passo a passo abaixo para colocar a ferramenta em funcionamento:
 
 **1. Hospedagem:**
 Hospede a pasta do projeto `mailtracker` na **raiz do seu site**.  
